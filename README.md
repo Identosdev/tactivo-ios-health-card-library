@@ -53,6 +53,6 @@ An example on how to use the library is located in `example/`.
 
 ## Documentation
 
-The documentation for the library can be found in `doc/`.
+The documentation for the library can be found in `doc/html`.
 
 > For further information on how to use the Tactivo Toolkit please refer to the corresponding documentation.
